@@ -20,7 +20,7 @@
     "mysql2": "^1.6.1",
     "node-mercury-parser": "^1.0.4",
     "nodemailer": "^4.6.8",
-    "pug": "^2.0.3",
+    "pug": "^3.0.1",
     "sequelize": "^4.41.0",
     "sequelize-cli": "^5.4.0",
     "serve-favicon": "^2.4.5",
