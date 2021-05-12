@@ -19,7 +19,7 @@
     "morgan": "^1.9.1",
     "mysql2": "^1.6.1",
     "node-mercury-parser": "^1.0.4",
-    "nodemailer": "^4.6.8",
+    "nodemailer": "^6.4.16",
     "pug": "^2.0.3",
     "sequelize": "^4.41.0",
     "sequelize-cli": "^5.4.0",
