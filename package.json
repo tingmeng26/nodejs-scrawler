@@ -13,7 +13,7 @@
     "difflib": "^0.2.4",
     "express": "^4.16.4",
     "express-cache-controller": "^1.1.0",
-    "express-handlebars": "^3.0.0",
+    "express-handlebars": "^5.3.1",
     "fs": "0.0.1-security",
     "html-to-text": "^4.0.0",
     "morgan": "^1.9.1",
